@@ -5,4 +5,4 @@
 <p>Muslim Gallery is an Android project that uses <b>local Json data</b></p>
 
 <h3>Screenshots</h3>
-<img src="https://drive.google.com/file/d/11MeVMyM9WXJ3Q2vko6UVK5NTu83hgL13/view?usp=sharing"/>
+<img src="https://lh5.googleusercontent.com/XyqPa4KWyXopbTta5l_uGHUf8GFMC_-rFCdfUlSpFlw23FfnxI5gWUD_z-vye6CTKnX7R36GlPk067tsKlxC=w10000-h10000"/>
